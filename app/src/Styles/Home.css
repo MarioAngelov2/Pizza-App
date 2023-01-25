@@ -48,5 +48,5 @@
 .headerContainer button:hover {
   background-color: rgb(188, 21, 21);
   color: white;
-  transition: 0.3s ease-in;
+  transition: 0.1s ease-in;
 }

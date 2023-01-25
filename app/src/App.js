@@ -1,18 +1,19 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
-import {Route, Routes} from 'react-router-dom';
+import Footer from "./components/Footer";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-        <Navbar />
+      <Navbar />
       <Routes>
         <Route path="/" exact element={<Home />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
 
 export default App;
- 
