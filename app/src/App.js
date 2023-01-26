@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Footer from "./components/Footer";
 import { Route, Routes } from "react-router-dom";
+import TwitterIcon from "@material-ui/icons/Twitter";
 
 function App() {
   return (
