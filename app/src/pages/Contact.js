@@ -1,11 +1,13 @@
 import React from "react";
+import contactUsImage from "../assets/contactUs.webp";
+import "../Styles/Contact.css";
 
 function Contact() {
   return (
     <div className="contact">
       <div
         className="leftSide"
-        // style={{ backgroundImage: `url(${aboutImage})` }}
+        style={{ backgroundImage: `url(${contactUsImage})` }}
       ></div>
       <div className="rightSide">
         <h1>Contact Us</h1>
@@ -21,8 +23,8 @@ function Contact() {
             name="message"
             required
           />
+          <button type="submit">Send Message</button>
         </form>
-        <button type="submit">Send Message</button>
       </div>
     </div>
   );
