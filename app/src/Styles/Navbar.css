@@ -31,3 +31,9 @@
   text-decoration: none;
   margin: 20px;
 }
+
+.navbar a:hover {
+  font-size: 22px;
+  /* transition: 0.1s ease-in; */
+  transition: 0.2s ease-in-out;
+}
