@@ -10,7 +10,7 @@
 - CSS
 
 ## Screenshots
-![catalog](./src/assets/screenshots/menu.png)
 ![home](./src/assets/screenshots/home.png) 
+![catalog](./src/assets/screenshots/menu.png)
 ![about](./src/assets/screenshots/about.png)
 ![contact](./src/assets/screenshots/contact.png)
