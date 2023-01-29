@@ -11,6 +11,6 @@
 
 ## Screenshots
 ![catalog](./src/assets/screenshots/about.png)
-<!-- ![host](./assets/screenshots/host.png) 
-![details](./assets/screenshots/details.png)
-![modal](./assets/screenshots/modal.png) -->
+![home](./src/assets/screenshots/home.png) 
+![about](./src/assets/screenshots/about.png)
+![contact](./src/assets/screenshots/contact.png)
