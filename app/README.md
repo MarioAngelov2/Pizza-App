@@ -1,4 +1,4 @@
-# Pizza-App  <img src="../app/src/assets/pizzaLogo.png width="50" heigth="50"/>
+# Pizza-App  ![logo](src/assets/pizzaLogo.png)
 
 ## This project is still in progress!
 
